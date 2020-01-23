@@ -17,8 +17,8 @@ class MainActivity : AppCompatActivity() {
 
         val buttonUp = findViewById<Button>(R.id.up) as Button
         val buttonDown = findViewById<Button>(R.id.down) as Button
-        val buttonRight = findViewById<Button>(R.id.down) as Button
-        val buttonLeft = findViewById<Button>(R.id.down) as Button
+        val buttonRight = findViewById<Button>(R.id.right) as Button
+        val buttonLeft = findViewById<Button>(R.id.left) as Button
 
 
 
